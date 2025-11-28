@@ -1,0 +1,88 @@
+##########################
+# Unity 6 - .gitignore
+##########################
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Cache / Artifacts / Burst / Shader caches
+[Bb]urstCache/
+[Bb]urstDebugInformation/
+*.shadercache
+*.shaderdebugcache
+*.unityshaderlog
+*.shaderinfo
+
+# Crash reports
+sysinfo.txt
+
+# Collaborate
+.collab/
+
+# Rider & JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Asset Store tools
+*.booproj
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcsettings
+*.xcuserdatad
+*.xcuserscheme
+
+# Platform-specific
+.DS_Store
+Thumbs.db
+
+# Addressables / AssetBundles
+Assets/AddressableAssetsData/*/*.bin
+Assets/StreamingAssets/aa/*
+
+# Logs
+*.log
+
+# Rider plugin for Unity
+.idea/
+*.csproj.DotSettings
+
+# TextMeshPro auto-generated files
+Assets/TextMesh Pro/*/Resources/*.asset.meta
+
+# Plastic SCM (if using)
+PlasticSCM/
+
+##########################
+# Files safe to track:
+#   Assets/
+#   ProjectSettings/
+#   Packages/
+#   Any .asset, .meta, .unity, .prefab etc.
+##########################
