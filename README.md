@@ -1,4 +1,4 @@
-# ? Baseball Quiz 3000
+# Baseball Quiz 3000
 *A fast-paced bar-style trivia game built in Unity 6*
 
 Baseball Quiz 3000 is a classic bar/restaurant-style quiz game where players compete to answer baseball questions 
@@ -7,7 +7,7 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ?? Gameplay Overview
+## Gameplay Overview
 - Answer multiple-choice baseball trivia questions  
 - Answer before the timer runs out  
 - Increasing difficulty as the game progresses  
@@ -17,14 +17,14 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ??? Built With
+## Built With
 - **Unity 6**
 - **TextMeshPro** for UI
 - **C# scripts**  
 
 ---
 
-## ?? Project Structure
+## Project Structure
 
 - Assets/
 	- Editor
@@ -38,7 +38,7 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ?? How to Play
+## How to Play
 1. Launch the game, By hitting Play
 2. Choose the correct answer before the timer expires
 3. Earn points for:
@@ -47,7 +47,7 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ?? How to Build (Unity 6)
+## How to Build (Unity 6)
 1. Open the project in **Unity 6**
 2. Go to **File ? Build Settings**
 3. Choose your target platform:
@@ -59,7 +59,7 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ?? Saving & Data
+## Saving & Data
 (FUTURE) The game stores data such as:
 - High scores  
 - Settings  
@@ -68,7 +68,7 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ?? Requirements
+## Requirements
 - **Unity 6** or newer  
 - Minimum:  
   - 4 GB RAM  
@@ -77,7 +77,7 @@ arcade-friendly — perfect for casual play sessions or entertainment screens.
 
 ---
 
-## ?? Roadmap (Optional—edit as needed)
+## Roadmap (Optional—edit as needed)
 - [ ] Add different quiz categories (teams, players, decades, records)
 - [ ] Add sound effects + background music
 - [ ] Add leaderboards
